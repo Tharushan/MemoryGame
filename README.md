@@ -1,4 +1,4 @@
-# Installation
+# Installation 
 ```
 composer install
 ```
@@ -8,5 +8,11 @@ composer install
 
 ```
 php -S localhost:8000 -t src/Public
+
+```
+
+# Test 
+```
+./vendor/bin/phpunit
 
 ```
