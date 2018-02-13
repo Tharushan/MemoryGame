@@ -1,3 +1,8 @@
+# Installation
+```
+composer install
+```
+
 
 **Serve quickly the project :**
 
