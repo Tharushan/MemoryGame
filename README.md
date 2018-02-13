@@ -1,4 +1,5 @@
-# Installation 
+# Memory Game
+## Installation 
 ```
 composer install
 ```
@@ -11,7 +12,7 @@ php -S localhost:8000 -t src/Public
 
 ```
 
-# Test 
+## Test 
 ```
 ./vendor/bin/phpunit
 
